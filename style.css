@@ -14,3 +14,35 @@ img {
 h1 {
     font-size: 26px;
 }
+
+
+/*-----HEADER---*/
+
+
+header {
+    background-color: #fff;
+    height: 70px;   
+    display: flex;
+    align-items: center; 
+}
+.container {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 14px 0;
+}
+
+.logo-container img {
+    width: 50px;
+}
