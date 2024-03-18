@@ -46,3 +46,37 @@ header {
 .logo-container img {
     width: 50px;
 }
+
+
+
+/*---MAIN-----*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*---FOOTER---*/
+
+footer {
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.container-footer {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
