@@ -47,6 +47,22 @@ header {
     width: 50px;
 }
 
+.btn {
+    font-size: 14px;
+    padding: 1px 25px;
+    border: 1px solid grey;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.select {
+    font-size: 14px;
+    text-align: center;
+    padding: 1px 25px;
+    background-color: #efefef;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+
 
 
 /*---MAIN-----*/
